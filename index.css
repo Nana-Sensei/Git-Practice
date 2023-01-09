@@ -1,0 +1,36 @@
+* {
+	margin:0 ;
+	padding: 0 ;
+}
+
+<style> @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;700&display=swap'); </style>
+
+body {
+	line-height: 1.5;
+	font-family: 'Poppins', sans-serif;
+	padding: 0px;
+}
+
+html {height: cover;}
+body {
+background-image: linear-gradient(to right, #000000, #260a44 );background-repeat:repeat;
+}
+
+
+.navbar-viwmaxx-logo {padding-top: 10px;
+	margin-left:90px;
+	width: 250px;
+}
+
+.search-holder { margin-top:10px;}
+
+form.example button {
+  float: right; margin-top:10.5px ;
+  padding-right: 7px; padding-left: 6px; padding-bottom: 2px;
+  margin-left: -3px;
+  background: none;
+  color: white;
+  font-size: 15px;
+  border: 1px solid; border-color: #white; /* Prevent double borders */
+  cursor: pointer;
+}
